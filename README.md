@@ -10,4 +10,9 @@ Un gusto en conectar.
 
 *¡Saludos!*
 
+Ejercicios:
+
+1.- Prueba 1 para Cherry Pick.
+
+
 
