@@ -13,7 +13,8 @@ Un gusto en conectar.
 Ejercicios:
 
 1.- Prueba 1 para Cherry Pick.
-2.- Prueba 2 para cherry Pick.
+2.- Prueba 2 para Cherry Pick.
+3.- Prueba 3 para Cherry Pick.
 
 
 
