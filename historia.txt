@@ -9,4 +9,6 @@ Experimento 1
 
 Experimento 2
 
-Hoy acabamos este reto.
+Fixbug 1
+
+Fixbug 2
