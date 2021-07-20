@@ -17,5 +17,8 @@ Ejercicios:
 2.- Prueba 2 para Cherry Pick.
 3.- Prueba 3 para Cherry Pick.
 
+Al terminar la clase vamos a borrar todos estos cambios.
+
+
 
 
