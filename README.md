@@ -10,16 +10,7 @@ Un gusto en conectar.
 
 *¡Saludos!*
 
-Hola
-Ejercicios:
-
-1.- Prueba 1 para Cherry Pick.
-2.- Prueba 2 para Cherry Pick.
-3.- Prueba 3 para Cherry Pick.
-
-Al terminar la clase vamos a borrar todos estos cambios.
-
-Vamos, tú puedes lograrlo. Cree en ti.
+20 de Julio de 2020.
 
 
 
