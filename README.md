@@ -19,6 +19,7 @@ Ejercicios:
 
 Al terminar la clase vamos a borrar todos estos cambios.
 
+Vamos, tú puedes lograrlo. Cree en ti.
 
 
 
